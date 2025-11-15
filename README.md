@@ -1,8 +1,6 @@
 # ⚡ AEMO Market Data Extractor
 
-Your ✨ **automated tool** to fetch public electricity market data from Australia and convert it into a clean, structured **Excel** format, ready for **Power BI**.
-
-Perfect for analysis, reporting, and integration into business intelligence dashboards\!
+It's an ✨ **automated tool** to fetch public electricity market data from Australia and convert it into a clean, structured **Excel** format.
 
 ---
 
@@ -10,7 +8,6 @@ Perfect for analysis, reporting, and integration into business intelligence dash
 
 - ⚡️ **Automated Data Fetching** from the AEMO website
 - 📄 **Structured .xlsx Export** with separate tabs for each region
-- 📊 **Power BI-Ready Output** with consistent formatting
 - 🗓️ **Scheduled Downloads** to automatically get the latest monthly data
 - 📈 **Time Series Data Collection** for all NEM regions (NSW, VIC, QLD, SA, TAS)
 - 🐍 **Built with Python** using `requests`, `openpyxl`, and `pytest`
@@ -19,7 +16,7 @@ Perfect for analysis, reporting, and integration into business intelligence dash
 
 ## 📈 Automated Data Workflow
 
-This tool automatically fetches and updates the monthly Regional Reference Prices (RRP) for all NEM regions (NSW, VIC, QLD, SA, TAS), and exports them to a structured XLSX file for seamless Power BI integration.
+This tool automatically fetches and updates the monthly Regional Reference Prices (RRP) for all NEM regions (NSW, VIC, QLD, SA, TAS), and exports them to a structured XLSX file.
 
 <p>
   <img src="./assets/aemo-logo.jpg" alt="AEMO Data Extraction Flowchart" width="450" />
